@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Finpro3Kalkulator</string>
+    <string name="c">C</string>
+    <string name="_0">0</string>
+    <string name="del">⌫</string>
+    <string name="persen">%</string>
+    <string name="bagi">/</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="x">*</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="min">-</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="tambah">+</string>
+    <string name="koma">.</string>
+    <string name="samadenga">=</string>
+</resources>
